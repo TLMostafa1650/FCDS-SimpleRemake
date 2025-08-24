@@ -1,8 +1,8 @@
 @media screen and (max-width:600px) {
 
     .up{
-    bottom: 18%;
-    right: 19%;
+    bottom: 5%;
+    right: 2%;
 }
 
 
@@ -170,7 +170,7 @@
 
 
     .About-Section {
-        height: 270vh;
+        height: 370vh;
         min-height: 633px;
         background-color: rgba(0, 0, 0, 0.7);
         border-radius: 5%;
@@ -198,7 +198,7 @@
     }
 
     .about-college {
-        top: 25%;
+        top: 20%;
         left: 20%;
         width: 100%;
         text-align: center;
@@ -234,27 +234,31 @@
         width: 340px;
         height: 340px;
         top: 3%;
-        left: 7%;
+        left: 12%;
     }
 
 
 
+.dean::after {
+    width: 80%;
+}
+
     .dean-word {
         position: absolute;
-        top: 30%;
-        left: 20%;
+        top: 40%;
+        left: 0%;
         width: 100%;
         text-align: center;
     }
 
     .dean-word h2 {
         position: relative;
-        left: -18%;
-        font-size: 3rem;
+        left: 0;
+        font-size: 2rem;
     }
 
     .dean-word h4 {
-        font-size: 1.9rem;
+        font-size: 1.4rem;
     }
 
 
@@ -311,7 +315,7 @@
 
 
     .end-info {
-        height: 100vh;
+        height: 120vh;
     }
 
     .logo-social {
@@ -321,8 +325,8 @@
 
 
     .map-section {
-        top: 30% !important;
-        left: 10% !important;
+        top: 20% !important;
+        left: 5% !important;
     }
 
     .map-section p {
@@ -340,7 +344,7 @@
 
 
     .links {
-        top: 75% !important;
+        top: 65% !important;
         left: 7% !important;
         width: 100%;
 
