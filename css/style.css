@@ -352,6 +352,17 @@ body {
 
 /* Dean */
 
+
+.dean-Section {
+        height: 100vh;
+        min-height: 633px;
+        background-color: rgba(0, 0, 0, 0.7);
+        border-radius: 5%;
+        margin-bottom: 200px;
+    }
+
+
+
 .dean{
     width: 380px;
     height: 540px;
@@ -360,6 +371,39 @@ body {
     top: 10%;
     left: 65%;
     border-radius: 5%;}
+
+
+
+.dean-Section {
+        height: 80vh;
+        min-height: 633px;
+        background-color: rgba(0, 0, 0, 0.7);
+        border-radius: 5%;
+        margin-bottom: 200px;
+    }
+
+
+
+
+    .dean-word {
+        position: absolute;
+        top: 5%;
+        left: 10%;
+        width: 50%;
+        text-align: center;
+    }
+
+    .dean-word h2 {
+        position: relative;
+        left: 4%;
+        font-size: 3rem;
+    }
+
+    .dean-word h4 {
+        font-size: 1.9rem;
+    }
+
+
 
 
 .dean img{
