@@ -1649,6 +1649,42 @@
     }
 
 
+.dean-Section {
+        height: 60vh;
+        min-height: 633px;
+        background-color: rgba(0, 0, 0, 0.7);
+        border-radius: 5%;
+        margin-bottom: 200px;
+    }
+
+
+
+    .dean {
+        width: 340px;
+        height: 340px;
+        top: 25%;
+    }
+
+
+
+    .dean-word {
+        position: absolute;
+        top: 15%;
+        right: 10%;
+        width: 50%;
+        text-align: center;
+    }
+
+    .dean-word h2 {
+        position: relative;
+        right: 4%;
+        font-size: 3rem;
+    }
+
+    .dean-word h4 {
+        font-size: 1.9rem;
+    }
+
 
 
 
