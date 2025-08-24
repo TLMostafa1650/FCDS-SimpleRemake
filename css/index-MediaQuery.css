@@ -14,9 +14,7 @@
 
 
     .photo {
-        position: fixed;
-        top: 20%;
-        left: 23%;
+        display: none;
     }
 
     .navbar {
@@ -384,11 +382,10 @@
     }
 
 
-    .photo {
-        position: fixed;
-        top: 20%;
-        left: 35%;
+     .photo {
+        display: none;
     }
+
 
     .navbar {
         position: relative !important;
@@ -735,9 +732,7 @@
 
 
     .photo {
-        position: absolute;
-        top: 20%;
-        left: 40%;
+        display: none;
     }
 
     .navbar {
@@ -1417,7 +1412,7 @@
 
 
     .dean-Section {
-        height: 100vh;
+        height: 130vh;
         min-height: 633px;
         background-color: rgba(0, 0, 0, 0.7);
         border-radius: 5%;
